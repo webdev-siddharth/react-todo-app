@@ -64,11 +64,6 @@ npm start
 npm run deploy
 ```
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ### 👨‍💻 Author
 
